@@ -1,2 +1,0 @@
-# remotaja.io
-RemotAja
