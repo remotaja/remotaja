@@ -474,7 +474,7 @@ ul.btn li:last-child {
 
 .header {
      width: 100%;
-     background: #11aeef;
+     background: #3B82F6;
      padding: 35px 30px;
      position: relative;
      z-index: 960;
@@ -492,7 +492,7 @@ ul.btn li:last-child {
 /** banner section **/
 
 .banner_main {
-     background: #11aeef;
+     background: #3B82F6;
      padding: 75px 0 90px 0;
 }
 
@@ -585,7 +585,7 @@ ul.btn li:last-child {
 .read_more {
      font-size: 17px;
      background-color: transparent;
-     border: #00aeef solid 5px;
+     border: #3B82F6 solid 5px;
      color: #010a05 !important;
      padding: 13px 0px;
      width: 100%;
@@ -598,7 +598,7 @@ ul.btn li:last-child {
 }
 
 .read_more:hover {
-     background: #00aeef;
+     background: #3B82F6;
      color: #fff !important;
      transition: ease-in all 0.5s;
 }
@@ -674,7 +674,7 @@ ul.btn li:last-child {
 }
 
 .choose .choose_box h3 {
-     color: #00aeef;
+     color: #3B82F6;
      font-size: 25px;
      line-height: 28px;
      font-weight: 500;
@@ -770,7 +770,7 @@ ul.easy li a:hover {
 /** request section **/
 
 .request {
-     background: #0192c8;
+     background: #222222 ;
      padding: 90px 0px;
 }
 
@@ -960,7 +960,7 @@ ul.social_icon li a i:hover {
 .sub_btn {
      font-size: 19px;
      transition: ease-in all 0.5s;
-     background-color: #0192c8;
+     background-color: #3B82F6 ;
      color: #fff;
      padding: 11px 0px;
      max-width: 175px;
@@ -973,7 +973,7 @@ ul.social_icon li a i:hover {
 }
 
 .sub_btn:hover {
-     background-color: #0156ed;
+     background-color: #1D4ED8;
      transition: ease-in all 0.5s;
      color: #fff;
 }
@@ -981,7 +981,7 @@ ul.social_icon li a i:hover {
 .copyright {
      margin-top: 85px;
      padding: 25px 0;
-     background: #0192c8;
+     background: #3B82F6 ;
 }
 
 .copyright p {
@@ -1002,4 +1002,3 @@ ul.social_icon li a i:hover {
 
 
 /** end footer **/
-
